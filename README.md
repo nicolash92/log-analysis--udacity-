@@ -2,6 +2,14 @@
 
 A python program that generates a report from a news database (Udacity's Full Stack Nano Degree [Log Analysis Project](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004))
 
+## What The Program Does:
+
+the program generates a report containing 3 peices of information:
+
+1. The most popular three articles of all time.
+2. The most popular article authors of all time.
+3. The days on which more than 1 percent of requests lead to errors.
+
 ## Requirements
 
 - [python version 3](https://www.python.org/downloads/release/python-374/)
