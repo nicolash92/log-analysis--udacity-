@@ -21,7 +21,7 @@ question2_query = '''
     select authors.name, COUNT(*) as views
     from authors
     join articles on authors.id = articles.author
-    join log on log.path like CONCAT('%',articles.slug)
+    join log on log.path like CONCAT('/article/',articles.slug)
     group by authors.name
     order by views desc
     '''
