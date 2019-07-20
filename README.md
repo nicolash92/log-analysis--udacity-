@@ -1,6 +1,6 @@
 # Log Analysis - (UDACITY)
 
-A python program that generates a report from (Udacity's Full Stack Nano Degree [Log Analysis Project](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004))
+A python program that generates a report from a news database (Udacity's Full Stack Nano Degree [Log Analysis Project](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004))
 
 ## Requirements
 
@@ -17,7 +17,7 @@ A python program that generates a report from (Udacity's Full Stack Nano Degree 
 2. Download [this](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/59822701_fsnd-virtual-machine/fsnd-virtual-machine.zip) Udacity folder with preconfigured vagrant settings.
    or `clone https://github.com/udacity/fullstack-nanodegree-vm`
 
-3. Clone this repository.
+3. Clone this repository `clone https://github.com/nicolash92/log-analysis--udacity-.git`.
 
 4. Navigate to the Udacity Virtual Machine folder in **git bash** and cd into vagrant.
 
